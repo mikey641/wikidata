@@ -190,12 +190,14 @@ def main():
             'en': { 'male': 'Beninese', 'female': 'Beninese' }, 
             'es': { 'male': 'beninés', 'female': 'beninesa' }, 
             'gl': { 'male': 'beninés', 'female': 'beninesa' }, 
+            'he': { 'male': 'מבנין', 'female': 'מבנין' },
         },
         'Beninois': {
             'ca': { 'male': 'beninès', 'female': 'beninesa' },
             'en': { 'male': 'Beninois', 'female': 'Beninois' }, 
             'es': { 'male': 'beninés', 'female': 'beninesa' }, 
             'gl': { 'male': 'beninés', 'female': 'beninesa' }, 
+            'he': { 'male': 'מבנין', 'female': 'מבנין' },
         },
         'Bermudan': {
             'ca': { 'male': 'de Bermudes', 'female': 'de Bermudes' },
@@ -264,7 +266,8 @@ def main():
             'ca': { 'male': 'bruneiès', 'female': 'bruneiesa' },
             'en': { 'male': 'Bruneian', 'female': 'Bruneian' }, 
             'es': { 'male': 'bruneano', 'female': 'bruneana' }, 
-            'gl': { 'male': 'bruneano', 'female': 'bruneana' }, 
+            'gl': { 'male': 'bruneano', 'female': 'bruneana' },
+            'he': { 'male': 'מברוניי', 'female': 'מברוניי' }, 
         },
         'Bulgarian': {
             'ca': { 'male': 'búlgar', 'female': 'búlgara' },
@@ -810,12 +813,14 @@ def main():
             'en': { 'male': 'Lao', 'female': 'Lao' }, 
             'es': { 'male': 'laosiano', 'female': 'laosiana' }, 
             'gl': { 'male': 'laosiano', 'female': 'laosiana' }, 
+            'he': { 'male': 'מלאוס', 'female': 'מלאוס' }, 
         }, 
         'Laotian': {
             'ca': { 'male': 'laosià', 'female': 'laosiana' }, 
             'en': { 'male': 'Laotian', 'female': 'Laotian' }, 
             'es': { 'male': 'laosiano', 'female': 'laosiana' }, 
             'gl': { 'male': 'laosiano', 'female': 'laosiana' }, 
+            'he': { 'male': 'מלאוס', 'female': 'מלאוס' }, 
         }, 
         'Latvian': {
             'ca': { 'male': 'letó', 'female': 'letona' }, 
@@ -1214,6 +1219,7 @@ def main():
             'en': { 'male': 'Sammarinese', 'female': 'Sammarinese' }, 
             'es': { 'male': 'sanmarinense', 'female': 'sanmarinense' }, 
             'gl': { 'male': 'sanmariñés', 'female': 'sanmariñesa' }, 
+            'he': { 'male': 'מסן מרינו', 'female': 'מסן מרינו' },
         }, 
         'Samoan': {
             'ca': { 'male': 'samoà', 'female': 'samoana' }, 
@@ -1227,6 +1233,7 @@ def main():
             'en': { 'male': 'São Toméan', 'female': 'São Toméan' }, 
             'es': { 'male': 'santotomense', 'female': 'santotomense' }, 
             'gl': { 'male': 'santomense', 'female': 'santomense' }, 
+            'he': { 'male': 'מסאו טומה ופרינסיפה', 'female': 'מסאו טומה ופרינסיפה' },
         }, 
         'Saudi': {
             'ca': { 'male': 'saudita', 'female': 'saudita' }, 

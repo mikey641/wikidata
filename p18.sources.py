@@ -31,6 +31,7 @@ def main():
         'eswiki': pywikibot.Site('es', 'wikipedia'),
         'fawiki': pywikibot.Site('fa', 'wikipedia'),
         'frwiki': pywikibot.Site('fr', 'wikipedia'),
+        'hewiki': pywikibot.Site('he', 'wikipedia'),
         'itwiki': pywikibot.Site('it', 'wikipedia'),
         'jawiki': pywikibot.Site('ja', 'wikipedia'),
         'nlwiki': pywikibot.Site('nl', 'wikipedia'),
@@ -63,6 +64,7 @@ def main():
         'ukwiki': 'Q199698', 
         'viwiki': 'Q200180', 
         'zhwiki': 'Q30239', 
+        'hewiki': 'Q199913', 
     }
     wikisites = ['enwiki', 'dewiki', 'frwiki', 'itwiki', 'eswiki', 'plwiki', 'ptwiki', 'nlwiki', 'svwiki', 'ruwiki', 'jawiki', 'viwiki', 'zhwiki', 'ukwiki', 'cawiki', 'fawiki', 'arwiki', 'nowiki', ] #prefered order for importedfrom
     repo = sites['wikidata'].data_repository()

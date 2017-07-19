@@ -100,7 +100,8 @@ def main():
             'pt-br': 'composto químico',
             'ro': 'compus chimic',
         }, 
-        'encyclopedic article': {
+        '
+        article': {
             'ar': 'مقالة موسوعية',
             'bn': 'বিশ্বকোষীয় নিবন্ধ',
             'ca': 'article enciclopèdic',
@@ -121,6 +122,7 @@ def main():
             'ru': 'энциклопедическая статья',
             'sl': 'enciklopedični članek',
             'sv': 'encyklopedisk artikel',
+            'he': 'ערך אנציקלופדי',
         }, 
         'genus of algae': {
             'ar': 'جنس من الطحالب',
